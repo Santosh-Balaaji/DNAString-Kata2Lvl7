@@ -1,0 +1,14 @@
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\DNAStringKata2Lvl7.deps.json
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\DNAStringKata2Lvl7.runtimeconfig.json
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\DNAStringKata2Lvl7.runtimeconfig.dev.json
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\DNAStringKata2Lvl7.dll
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\bin\Debug\netcoreapp2.2\DNAStringKata2Lvl7.pdb
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\obj\Debug\netcoreapp2.2\DNAStringKata2Lvl7.csprojAssemblyReference.cache
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\obj\Debug\netcoreapp2.2\DNAStringKata2Lvl7.csproj.CoreCompileInputs.cache
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\obj\Debug\netcoreapp2.2\DNAStringKata2Lvl7.AssemblyInfoInputs.cache
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\obj\Debug\netcoreapp2.2\DNAStringKata2Lvl7.AssemblyInfo.cs
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\obj\Debug\netcoreapp2.2\DNAStringKata2Lvl7.dll
+C:\Users\svsan\source\repos\DNAStringKata2Lvl7\DNAStringKata2Lvl7\obj\Debug\netcoreapp2.2\DNAStringKata2Lvl7.pdb

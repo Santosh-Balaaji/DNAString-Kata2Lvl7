@@ -2,6 +2,7 @@ using NUnit.Framework;
 
 namespace Tests
 {
+    [TestFixture]
     public class Tests
     {
         [SetUp]
@@ -9,10 +10,23 @@ namespace Tests
         {
         }
 
-        [Test]
-        public void Test1()
+        [TestCase]
+        public void test01()
         {
-            Assert.Pass();
+            Assert.AreEqual("TTTT", DnaStrand.MakeComplement("AAAA"));
         }
+
+        [Test]
+        public void test02()
+        {
+            Assert.AreEqual("TAACG", DnaStrand.MakeComplement("ATTGC"));
+        }
+
+        [Test]
+        public void test03()
+        {
+            Assert.AreEqual("CATA", DnaStrand.MakeComplement("GTAT"));
+        }
+
     }
 }
